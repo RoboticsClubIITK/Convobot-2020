@@ -2,13 +2,21 @@
 
 Robotics Club Summer Project 2020
 
-* Team Members:
-  * [Abhay Dayal Mathur](https://github.com/Stellarator-X)
-  * [Amitesh Singh Sisodia](https://github.com/Amitesh163)
-  * [Anchal Gupta](https://github.com/anchalgupta05)
-  * [Arpit Verma](https://github.com/Av-hash)
-  * [Manit Ajmera](https://github.com/manitajmera)
-  * [Sanskar Mittal](https://github.com/sanskarm)
+## Mentors
+
+* [Paras Mittal](https://github.com/PrsMittal)
+* [Ashwin Shenai](https://github.com/ashwin2802)
+
+## Team Members
+
+* **Group A** - [Varun Khatri](https://github.com/varunk122), [Prateek Jain](https://github.com/Prateekjain09), [Adit Khokhar](https://github.com/adit-khokar), [Atharva Umbarkar](https://github.com/AtharvaUmbarkar), [Ishir Roongta](https://github.com/isro01)
+  * Group Repo - [https://github.com/isro01/Conv_bot]</br></br>
+* **Group B** - [Shiven Tripathi](https://github.com/ShivenTripathi), [Prakhar Pradhan](https://github.com/prakhariitk), [Mohd Muzzammil](https://github.com/XaltaMalta), [Sidhartha Watsa](https://github.com/sidwat), [Azhar Tanweer](https://github.com/Azhar-999-coder)
+  * Group Repo - [https://github.com/conversational-robot]</br></br>
+* **Group C** - [Ambuja Budakoti](https://github.com/AmbujaBudakoti27), [Devansh Mishra](https://github.com/devansh20), [Hem Shah](https://github.com/hemshah011), [Kavya Agarwal](https://github.com/KavyaAgarwal2001), [Preeti Kumari](https://github.com/preeti1428)
+  * Group Repo - [https://github.com/AmbujaBudakoti27/ConversationalRobot]</br></br>
+* **Group D** - [Abhay Dayal Mathur](https://github.com/Stellarator-X), [Amitesh Singh Sisodia](https://github.com/Amitesh163), [Anchal Gupta](https://github.com/anchalgupta05), [Arpit Verma](https://github.com/Av-hash), [Manit Ajmera](https://github.com/manitajmera), [Sanskar Mittal](https://github.com/sanskarm)
+  * Group Repo - [https://github.com/Amitesh163/ConvBot_group]
   
 ***
 
